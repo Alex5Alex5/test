@@ -1,0 +1,5 @@
+n = input()
+c = input()
+a = n.split(" ")
+a.append(c)
+print(a)
